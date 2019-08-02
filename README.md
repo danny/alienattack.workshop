@@ -79,7 +79,7 @@ In a few seconds your environment will be available. You can close the Welcome t
 
 #### <a name="config-cloneapprep"></a>STEP 3 - Clone this repository
 
-Down on your Cloud9 console, a terminal is available. Go to the terminal and clone this repository. This repository contains the back-end.
+At the bottom of the Cloud9 console a terminal is available. Go to the terminal and clone this repository. This repository contains the back-end.
 
 ~~~
 ~/environment $ git clone https://github.com/fabianmartins/alienattack.workshop
